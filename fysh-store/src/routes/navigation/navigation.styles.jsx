@@ -17,13 +17,13 @@ export const LogoContainer = styled(Link)`
 
 export const NavLinksContainer = styled.div`
   width: 50%;
-    height: 100%;
-    display: flex;
-    align-items: center;
-    justify-content: flex-end;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
 `
 
 export const NavLink = styled(Link)`
   padding: 10px 15px;
-      cursor: pointer;
+  cursor: pointer;
 `
